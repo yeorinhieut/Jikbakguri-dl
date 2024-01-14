@@ -1,2 +1,2 @@
 # jikbakguri-dl
-browser-based video downloader for several sites
+video downloader for several sites
